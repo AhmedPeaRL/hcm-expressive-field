@@ -1,0 +1,10 @@
+{
+  "layer": "expressive",
+  "expression": {
+    "allowed": true,
+    "addressed_to_anyone": false,
+    "expects_response": false
+  },
+  "forms": ["text", "symbol", "gesture", "silence"],
+  "principle": "Expression may occur without being heard."
+}
